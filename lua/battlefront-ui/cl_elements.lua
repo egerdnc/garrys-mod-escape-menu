@@ -1,22 +1,4 @@
-/*----------------------------------------------------------------------
-Leak by Famouse
 
-Play good games:↓
-http://store.steampowered.com/curator/32364216
-
-Subscribe to the channel:↓
-www.youtube.com/c/Famouse
-
-More leaks in the discord:↓ 
-https://discord.gg/rFdQwzm
-------------------------------------------------------------------------*/
---[[
-    Battlefront UI
-    Created by http://steamcommunity.com/id/Devul/
-    Do not redistribute this software without permission from authors
-
-    Developer information: 76561198146682727 : 4601 : 16520
-]]--
 
 local gradient = Material( "gui/gradient" )
 local gradientr = Material( "vgui/gradient-r" )

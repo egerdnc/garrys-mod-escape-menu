@@ -1,16 +1,3 @@
-/*----------------------------------------------------------------------
-Leak by Famouse
-
-Play good games:↓
-http://store.steampowered.com/curator/32364216
-
-Subscribe to the channel:↓
-www.youtube.com/c/Famouse
-
-More leaks in the discord:↓ 
-https://discord.gg/rFdQwzm
-------------------------------------------------------------------------*/
--- Category registration, for the OPTIONS menu. You can change the icons if you wish, or the names for your own language. Do not edit the id.
 bfUI.registerCategory( 
 	{
 		id = "general configuration",
@@ -323,7 +310,7 @@ bfUI.registerElement( "Yetkililer", {
 	}
 ]]
 bfUI.registerElement( "Discord", {
-	showURL = "https://discord.gg/HZC6w4ebdj"
+	showURL = "https://discord.gg/"
 })
 
 bfUI.registerElement( "Kurallar", {

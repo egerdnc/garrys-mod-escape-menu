@@ -1,15 +1,4 @@
-/*----------------------------------------------------------------------
-Leak by Famouse
 
-Play good games:↓
-store.steampowered.com/curator/32364216
-
-Subscribe to the channel:↓
-www.youtube.com/c/Famouse
-
-More leaks in the discord:↓ 
-https://discord.gg/rFdQwzm
-------------------------------------------------------------------------*/
 include 'cl_elements.lua'
 local PANEL = {}
 
